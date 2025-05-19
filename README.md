@@ -1,5 +1,5 @@
-# DataAnalytics-Assessment
-# Cowrywise Assessement
+# Cowrywise DataAnalytics-Assessment BY AKINGBELURE ADEBOYE
+
 
 # Question 1: High-Value Customers with Multiple Products
 
