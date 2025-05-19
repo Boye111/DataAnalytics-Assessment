@@ -57,3 +57,6 @@ Approach:
 Challenges:
 - Handling edge cases like users with zero months of tenure.
 - Ensuring only positive transactions were considered to reflect realistic CLV.
+
+# NOTE.
+All my calculations on the deposits or amount of any sort was left in kobo since there was no explicit instruction to convert it to Naira.
